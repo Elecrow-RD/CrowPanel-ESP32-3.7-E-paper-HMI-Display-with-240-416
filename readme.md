@@ -10,8 +10,6 @@
 
 ### 3, product information
 
-- # Display Module Specifications
-
   - # Display Module Specifications
 
     - **Size**: 3.7 inch
